@@ -1,0 +1,39 @@
+body {
+    background-image: url('./vazio.jpg');
+    background-size: contain;
+    background-size: 100% 100%; 
+    width: 100vw;
+    height: 100vh;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.smile {
+    text-align: center;
+    color: red;
+    margin-bottom: 5px;
+}
+.sun {
+    text-align: center;
+    margin-bottom: 5px;
+}
+.white {
+    text-align: center;
+    margin-bottom: 5px;
+}
+.black {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.div {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.image {
+    width: 200px;
+    height: 150px;
+    margin-right: 20px;
+}
